@@ -1,0 +1,9 @@
+precision    recall  f1-score   support
+
+       music     0.9442    0.9264    0.9352       584
+       noise     0.8415    0.9162    0.8773       394
+      speech     0.9865    0.9125    0.9481       320
+
+    accuracy                         0.9199      1298
+   macro avg     0.9240    0.9184    0.9202      1298
+weighted avg     0.9234    0.9199    0.9208      1298
